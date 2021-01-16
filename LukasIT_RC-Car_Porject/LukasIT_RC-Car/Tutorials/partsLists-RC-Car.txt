@@ -1,0 +1,26 @@
+1.Wemos D1 Mini: 4800원
+https://smartstore.naver.com/ds-parts/products/2267691606?NaPm=ct%3Dk23wjt3c%7Cci%3Dc0620f8369f75b147ff5e5c47ab605bd01cd130b%7Ctr%3Dslsl%7Csn%3D235878%7Cic%3D%7Chk%3Dfb5bd8e7d942f868f6d4d71bac3fb5cfccc715f7
+
+2. LiPo 3,7V battery for Wemos d1 mini: 2400원
+https://smartstore.naver.com/gairah/products/4652690240?NaPm=ct%3Dk23xz188%7Cci%3Dc716ee67de31cb72df9ec2c1de71e532b6987041%7Ctr%3Dslsl%7Csn%3D845816%7Cic%3D%7Chk%3Dba34a729ae9239e9ac2404f071c025598613be3f
+
+
+3. LiPo battery charger with micro USB connector:
+//4900원
+//https://smartstore.naver.com/ntrex/products/759393111?NaPm=ct%3Dk23wwgc8%7Cci%3D0abe67d120c1b41be2ad97064acc434411d9c94d%7Ctr%3Dslsl%7Csn%3D186400%7Cic%3D%7Chk%3De01322b6887c046a6e9339ea288db690de1b3782
+
+3200원:
+http://www.devicemart.co.kr/goods/view?no=1362059&market=naver&NaPm=ct%3Dk23wz7vk%7Cci%3D9fd883f6c585e9f950d5bd9d2b25cf7b3a2150f3%7Ctr%3Dslsl%7Csn%3D876973%7Chk%3Ddf7460a521cc6ed980b6745ea169c18bcfb76f09
+
+4. I2C 2 motors Driver (15 VDC max.): 4000원
+https://smartstore.naver.com/i2r/products/3039173195?NaPm=ct%3Dk23x60h4%7Cci%3D2976b3c0d17df1008564e74578812c9b76ebd367%7Ctr%3Dslsl%7Csn%3D424830%7Cic%3D%7Chk%3D2cf1356245ad811827b5e1da3da5fa98bf255e4d
+
+5.  JST XH2-2.54mm cable: 150원
+https://smartstore.naver.com/domekit/products/4353961380?NaPm=ct%3Dk23y3vm0%7Cci%3Df797e920527920eb175d38e633c9a85f247e0fd5%7Ctr%3Dslsl%7Csn%3D278114%7Cic%3D%7Chk%3Db97b9d430a5787a70d4aacc6debe402533e00a69
+
+
+6.  Double base: 1650원
+http://www.devicemart.co.kr/goods/view?no=1362055&market=naver&NaPm=ct%3Dk23wnys8%7Cci%3D09a2b082eea5eb72762a1e1a44c74d432555544e%7Ctr%3Dslsl%7Csn%3D876973%7Chk%3D1b65e050cac353995a347178befad6a34d5892fb
+
+7. 아두이노 2WD 4WD RC카 자동차 로봇프레임 키트: 6400원
+https://smartstore.naver.com/arduclub/products/4475503845?NaPm=ct%3Dk23wajrc%7Cci%3D8640518c8167c0cf65cd8208176268b0e65d45dc%7Ctr%3Dslsl%7Csn%3D849532%7Cic%3D%7Chk%3D5c8b2f47957cf7046d6fee1d6259f5a805e450d3
