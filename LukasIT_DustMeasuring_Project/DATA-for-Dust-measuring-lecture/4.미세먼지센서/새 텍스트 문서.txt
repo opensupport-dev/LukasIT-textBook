@@ -1,0 +1,12 @@
+-AQI:
+
+https://diyprojects.io/calculate-air-quality-index-iaq-iqa-dsm501-arduino-esp8266/#.XI81dnUWtEY
+
+	--> 관련 코드:
+		https://github.com/mysensors/MySensors/blob/master/examples/DustSensorDSM/DustSensorDSM.ino
+
+
+-github
+
+https://github.com/mysensors/MySensors/blob/master/examples/DustSensorDSM/DustSensorDSM.ino
+

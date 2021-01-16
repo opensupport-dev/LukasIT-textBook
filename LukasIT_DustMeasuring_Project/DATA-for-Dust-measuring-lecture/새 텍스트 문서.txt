@@ -1,0 +1,89 @@
+dongyeop@lukasit.kr
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+부품:		상세		구매링크
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+온습도:		DHT11		http://mechasolution.com/shop/goods/goods_view.php?goodsno=10741&category=		
+미세먼지:		GP2Y1010AU0F	http://www.icbanq.com/P007324784
+RGB LED:		RGB LED (캐소드)	http://mechasolution.com/shop/goods/goods_view.php?goodsno=577103&category=
+브레드보드:	미니브레드보드	http://mechasolution.com/shop/goods/goods_view.php?goodsno=1423&category=	
+전선:		F-M		http://mechasolution.com/shop/goods/goods_view.php?goodsno=330475&category=136002
+		M-M		http://mechasolution.com/shop/goods/goods_view.php?goodsno=330476&category=136002
+		F-F		http://mechasolution.com/shop/goods/goods_view.php?goodsno=330477&category=136002
+LCD:		I2C LCD		http://mechasolution.com/shop/goods/goods_view.php?goodsno=427199&category=	
+BT모듈:		HC-06 		http://mechasolution.com/shop/goods/goods_view.php?goodsno=71794&category=
+건전지홀더	6xAA 배럴잭 타입	http://mechasolution.com/shop/goods/goods_view.php?goodsno=575749&category=
+건전지		AA배터리, 3세트	http://mechasolution.com/shop/goods/goods_view.php?goodsno=543513&category=
+아두이노		우노R3호환보드	http://mechasolution.com/shop/goods/goods_view.php?goodsno=8851&category=145015
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+받을주소: 서울시 강북구 인수봉로84길 21-10, 2층
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+부품		상세		구매링크
+온습도:		DHT11		http://mechasolution.com/shop/goods/goods_view.php?goodsno=10741&category=		
+미세먼지:		GP2Y1010AU0F	http://www.icbanq.com/P007324784
+RGB LED:		RGB LED (캐소드)	http://mechasolution.com/shop/goods/goods_view.php?goodsno=577103&category=
+브레드보드:	미니브레드보드	http://mechasolution.com/shop/goods/goods_view.php?goodsno=1423&category=	
+전선:		F-M		http://mechasolution.com/shop/goods/goods_view.php?goodsno=330475&category=136002
+		M-M		http://mechasolution.com/shop/goods/goods_view.php?goodsno=330476&category=136002
+		F-F		http://mechasolution.com/shop/goods/goods_view.php?goodsno=330477&category=136002	
+LCD:		I2C LCD		http://mechasolution.com/shop/goods/goods_view.php?goodsno=427199&category=
+BT모듈:		HC-06 		http://mechasolution.com/shop/goods/goods_view.php?goodsno=71794&category=
+		페어링 비밀번호는 1234
+건전지홀더	6xAA 배럴잭 타입	http://mechasolution.com/shop/goods/goods_view.php?goodsno=575749&category=
+건전지(2알 1set)	AA배터리, 3세트	http://mechasolution.com/shop/goods/goods_view.php?goodsno=543513&category=
+
+///////////////////////////////////////////////////////////
+미세먼지측정기ㅣ참고:https://kocoafab.cc/make/view/729
+
+온습도:참고:https://cafe.naver.com/mechawiki/40
+미세먼지센서: 참고:https://m.blog.naver.com/PostView.nhn?blogId=darknisia&logNo=221222455928&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+RGB LED:참고:https://blog.naver.com/roboholic84/220602059241  ,   https://kocoafab.cc/tutorial/view/13
+
+LCD(I2C)참고:https://cafe.naver.com/mechawiki/782 , 
+BT모듈:참고:https://blog.naver.com/roboholic84/220315715278 , 페어링 비밀번호는 1234
+
+건전지홀더:참고:http://blog.naver.com/fribot/220249027013
+               아두이노 우노 제품에 공급할 수 있는 직류전압 크기는 7~12V 이상이 최적의 조건입니다.
+건전지:
+아두이노호환보드:참고: https://blog.naver.com/roboholic84/220585222262
+////////////////////
+
+기본과정을 응용이랑 조금 합쳐 온습도센서를 배우고 바로 작은 프로젝트로 온도 측정하기, 습도측정하기, 습도가 높으면 led불 키기 같은 내용이 들어가면 좋을 것 같습니다.
+
+/////////////////
+
+미세먼지센서 gp2y114au까지는 괜찮을 것 같네요. 
+///////////////
+작은 공기청정기나, 온도 습도 미세먼지 같은걸 보여주는 장치 같은거도 좋을 것 같습니다!
+
+스마트팜은 예시입니다!! 자율주행자동차, 로봇청소기 등등 주제에 대한 제한은 없습니다. 
+
+
+////////////////////
+초등 ~ 중등 사이라
+캐릭터가 이야기 하는 부분이 많이 들어가는 교재라 그렇습니다.
+소스코드에도 대부분 코드에 주석을 달고
+코드 하나하나를 설명하는 부분도 많습니다!
+
+///////////////////////////
+주제: 미세먼지온습도기기
+0. 초보과정:
+  0-1. 필요부품 설명하기
+  0-2. 오픈하드웨어 알기
+  0-3. 아두이노 원리 알기
+1.기본 과정:
+  1-1. 아두이노스케치 다루기
+  1-2. 아두이노우노보드 설명
+  1-3. 온습도센서 알기
+  1-4. 미세먼지센서 알기
+  1-5. LCD 알기
+ 2. 응용과정:
+  2-1. 미세먼지측정기 만들기
+  2-2. 온습도측정기 만들기
+  2-3. LCD에 표시하기
+3. 마무리과정:
+  3-1. 미세먼지,온습도 측정기 만들기
+
